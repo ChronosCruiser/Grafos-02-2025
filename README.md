@@ -2,7 +2,7 @@
 trabalho de grafos segundo semestre 2025
 
 Grupo:
-- Gustavo
+- Gustavo Dutra Moraes
 - Henrique
 - Vinicius 
 
